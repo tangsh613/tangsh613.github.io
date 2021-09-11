@@ -1,10 +1,10 @@
 <table border="0">
   <tr>
     <td wideth="75%">
-      <h1>唐顺海</h1>
-      <p><b>本科二年级</b></p>
+      <h1 style="color:red">Welcome</h1>
+      <p><b>I am Tangshunhai, A fool who is desperately learning knowledge</b></p>
       <p><b>USTC网络安全学院</b></p>
-      <p><b>SCHOOL MAIL:tangshunhai@mail.ustc.edu.cn</b></p>
+      <p><a href="mailto:tangshunhai@mail.ustc.edu.cn">邮箱在此</a></p>
       <p><b>QQ:1783921705</b></p>
       <p><b>安徽省合肥市蜀山区中国科学技术大学</b></p>
     </td>
